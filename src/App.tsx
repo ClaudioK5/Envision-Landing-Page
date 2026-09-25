@@ -135,7 +135,7 @@ function App() {
             <div className="hero-product animate-in delay-2">
               <img
                 src={envisionAppUi}
-                alt="Envision app — upload a video and ask questions"
+                alt="Visorixs app — upload a video and ask questions"
                 width={1200}
                 height={900}
                 decoding="async"
@@ -144,7 +144,7 @@ function App() {
           </div>
         </section>
 
-        {/* White — What is Envision */}
+        {/* White — What is Visorixs */}
         <section className="section band-cream section-what">
           <div className="section-inner narrow reveal">
             <p className="eyebrow">{whatIs.title}</p>
