@@ -2,10 +2,10 @@
  * Central brand config — edit to rename or change the app CTA URL.
  */
 export const site = {
-  productName: "Envision",
+  productName: "Visorixs",
   tagline: "Your AI creator consultant for every Reel.",
   description:
-    "Upload your Reel or TikTok. Envision watches the actual video and gives you the specific improvements worth making — from hook and pacing to storytelling, visuals, audio and engagement.",
+    "Upload your Reel or TikTok. Visorixs watches the actual video and gives you the specific improvements worth making — from hook and pacing to storytelling, visuals, audio and engagement.",
   appUrl: "https://envision-frontend-peach.vercel.app/",
   ctaLabel: "Analyze my Reel free",
   freeTrialNote: "3 free analyses. No credit card required.",
